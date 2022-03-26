@@ -2,4 +2,4 @@
 
 Mock-Up
 
-![images]https://courses.bootcampspot.com/courses/1196/files/1448188/preview
+![gif]/Users/vicky/Desktop/projects/code-quiz/images/04-web-apis-homework-demo.gif
