@@ -1,6 +1,6 @@
 # code-quiz
 
-Mock-Up
+# Mock-Up
 
 ![code-quiz](images/04-web-apis-homework-demo.gif)
 
